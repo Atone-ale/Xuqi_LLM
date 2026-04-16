@@ -1,4 +1,5 @@
 @echo off
+rem Stable startup script for the local WebUI launcher.
 setlocal EnableExtensions
 
 cd /d "%~dp0"
